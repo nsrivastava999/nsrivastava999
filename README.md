@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 * I have experience in the field of Frontend Development, Backend Development, SQL and NonSQL Databases, Firebase etc.💻
 
-* I am Technical Manager at Technology And Gaming CLUB - VIT Vellore.🎮
+* I am Technical Manager at Technology And Gaming(TAG) Club - VIT Vellore.🎮
 
 * Get in Touch with me on:
   [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava).🤝
