@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 * I am an Information Technology Engg. student at Vellore Institute of Technology.🎓
 
-* I have experience in the field of Frontend Development, Backend Development, SQL Database, Firebase etc.💻
+* I have experience in the field of Frontend Development, Backend Development, SQL and NonSQL Databases, Firebase etc.💻
 
 * I am Technical Manager at Technology And Gaming CLUB - VIT Vellore.🎮
 
