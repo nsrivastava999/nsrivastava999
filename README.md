@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 * Get in Touch with me on:
   [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava).🤝
   
-https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical)
