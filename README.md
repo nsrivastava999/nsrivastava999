@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* I am an Information Technology Engg. student at Vellore Institute of Technology.🎓
+
+* I have experience in the field of Frontend Development, Backend Development, SQL Database, Firebase etc.💻
+
+* I am Technical Manager at Technology And Gaming CLUB - VIT Vellore.🎮
+
+* Get in Touch with me on:
+  [LinkedIn](https://www.linkedin.com/in/nsrivastava999/)
+  [Twitter](https://twitter.com/NiharSrivastava)
+  
