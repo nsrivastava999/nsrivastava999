@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 * I am Technical Manager at Technology And Gaming CLUB - VIT Vellore.🎮
 
 * Get in Touch with me on:
-  [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava)
+  [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava).🤝
   
