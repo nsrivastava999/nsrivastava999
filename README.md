@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am [Nihar Srivastava!](https://nsrivastava999.github.io/)👋
 
 <!--
 **nsrivastava999/nsrivastava999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
