@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava).🤝
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&show_icons=true&theme=radical)
