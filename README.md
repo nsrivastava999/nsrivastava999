@@ -23,5 +23,12 @@ Here are some ideas to get you started:
 * Get in Touch with me on:
   [LinkedIn](https://www.linkedin.com/in/nsrivastava999/),[Twitter](https://twitter.com/NiharSrivastava).🤝
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&show_icons=true&theme=radical&hide=php,c)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&show_icons=true&theme=radical&hide=php,c)-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&layout=compact&theme=radical" />
+</a>
