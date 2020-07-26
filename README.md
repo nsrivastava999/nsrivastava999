@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&show_icons=true&theme=radical&hide=php,c)-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nsrivastava999&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsrivastava999&layout=compact&theme=radical" />
 </a>
